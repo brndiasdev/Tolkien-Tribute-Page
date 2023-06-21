@@ -28,11 +28,11 @@ figure {
   margin-inline-start: 40px;
   margin-inline-end: 40px;
 }
-img :not(#logo) {
+img {
   max-width: 100%;
   display: block;
   height: auto;
-  margin: 0 auto;
+  margin: auto;
 }
 #image {
   filter: grayscale(100%);
