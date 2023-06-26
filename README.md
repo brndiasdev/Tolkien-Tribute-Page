@@ -4,7 +4,7 @@ This is a simple tribute page for J.R.R. Tolkien, the creator of Middle-earth. I
 
 ## Preview
 
-<img src="https://i.imgur.com/2xDlODS.png" alt="Tolkien Page Tribute" width="30%">
+<img src="https://i.imgur.com/2xDlODS.png" alt="Tolkien Page Tribute" width="45%">
 
 ## Features
 
